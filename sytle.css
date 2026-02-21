@@ -1,0 +1,134 @@
+    #home {
+        background-color: rgb(100, 54, 100);
+    }
+    
+    #home1 {
+        background-color: cornsilk;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+    }
+    
+    #home2 {
+        background-color: dimgrey;
+        font-family: cursive;
+        color: khaki;
+    }
+    
+    h2 {
+        background-color: lightcyan;
+    }
+    
+    #home3 {
+        background-color: dimgrey;
+        font-family: cursive;
+        color: khaki;
+    }
+    
+    #home4 {
+        background-color: rgb(133, 134, 199);
+        font-family: cursive;
+        color: khaki;
+    }
+    
+    #home5 {
+        background-color: dimgrey;
+        font-family: cursive;
+        color: khaki;
+    }
+    
+    #home6 {
+        background-color: rgb(83, 130, 175);
+        font-family: cursive;
+        color: khaki;
+        ;
+    }
+    
+    #home7 {
+        background-color: rgb(133, 134, 199);
+        font-family: cursive;
+        color: khaki;
+        font-style: bold;
+    }
+    
+    #abt {
+        background-color: rgb(158, 55, 8);
+        color: rgb(34, 33, 33);
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    #abt1 {
+        background-color: rgb(17, 17, 17);
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    h3 {
+        background-color: rgb(241, 243, 101);
+        color: rgb(15, 3, 3);
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    #abt2 {
+        background-color: dimgrey;
+        font-family: cursive;
+        color: khaki;
+        background-image: -webkit-image-set();
+    }
+    
+    #abt3 {
+        background-color: rgb(160, 27, 27);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(230, 74, 12);
+    }
+    
+    #cnt {
+        background-color: rgb(245, 205, 97);
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
+    
+    #cnt1 {
+        background-color: rgb(238, 146, 110);
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
+    
+    #cnt2 {
+        background-color: rgb(169, 243, 169);
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
+    
+    #cnt3 {
+        background-color: rgb(196, 102, 214);
+        text-align: center;
+        font-family: Arial, sans-serif;
+    }
+    
+    #cnt4 {
+        background-color: rgb(114, 11, 11);
+        text-align: center;
+        font-family: Arial, sans-serif;
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    #cnt5 {
+        background-color: rgb(90, 206, 115);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px;
+    }
+    
+    #cbu1 {
+        background-color: rgb(7, 104, 91);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        border: 5px solid orange;
+    }
+    
+    #cnt6 {
+        background-color: rgb(7, 104, 91);
+        font-family: sans-serif;
+        font-size: 30px;
+        border: 5px solid orange;
+    }
